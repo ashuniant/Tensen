@@ -4,5 +4,3 @@
 # Introduction
 
 Tensen, created by developer Ashuni, is a central hub designed to provide users with an immersive and enjoyable experience. Focused on ensuring optimized performance, stability, improved aesthetics and universal functionalities, Tensen stands out as a robust and versatile solution.
-
-While it currently supports the game Blade Ball, development on Tensen is just beginning. Plans are underway to expand the hub by adding new scripts and supporting a wider variety of games.
